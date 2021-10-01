@@ -1,4 +1,4 @@
-## Emily Van Buren Page 
+## Welcome to Emily Van Buren Github Page 
 
 You can use the [editor on GitHub](https://github.com/Jatbee32/Jatbee32.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
